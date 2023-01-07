@@ -1,9 +1,9 @@
 # Table Of Contents
 1. [Installation](#Installation)
-2. [Project Motivations](#Project Motivations)
-3. [File Descriptions](#File Descriptions)
+2. [Project Motivations](#Project_Motivations)
+3. [File Descriptions](#File_Descriptions)
 4. [Results](#Results)
-5. [Licensing, Authors and Acknowledgements](#Licensing, Authors and Acknowledgements)
+5. [Licensing, Authors and Acknowledgements](#Licensing,_Authors_and_Acknowledgements)
 
 # Installation
 The code should run perfectly on python 3.*. There should be no necessary libraries to run the code.
